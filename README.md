@@ -15,21 +15,25 @@ This project focuses on predicting outcomes using machine learning techniques. I
 
 ---
 
-## 🔧 Steps Performed
+## 🛠️ Steps Performed
 
-1. Data Cleaning
-2. Exploratory Data Analysis (EDA)
-3. Feature Engineering
-4. Model Training
-5. Model Evaluation
+1. Data Cleaning  
+2. Exploratory Data Analysis (EDA)  
+3. Feature Engineering  
+4. Feature Selection  
+5. Model Training (Random Forest, XGBoost, LightGBM)  
+6. Model Evaluation  
+7. Ensemble Learning  
+8. Stacking Ensemble with Meta Model (Improved Performance)
 
 ---
 
 ## 🤖 Models Used
 
-* Logistic Regression
 * Random Forest
-* (Add what YOU used)
+* XGBoost
+* LightGBM
+* Meta Model(Logistic Regression)
 
 ---
 
