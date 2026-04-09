@@ -34,8 +34,10 @@ This project focuses on predicting outcomes using machine learning techniques. I
 
 ## 📈 Results
 
-* Achieved good performance using optimized models
-* Compared multiple models to select the best one
+- Achieved an accuracy of **0.8242**  
+- Secured **Rank 734 out of 19,286 participants (Top ~4%)**  
+- Implemented a **stacking ensemble** using Random Forest, XGBoost, and LightGBM  
+- Demonstrated improved performance through model combination
 
 ---
 
